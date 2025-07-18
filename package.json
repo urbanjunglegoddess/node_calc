@@ -1,0 +1,14 @@
+{
+  "name": "node_calc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }, 
+  "scripts":{
+    "start": "node index.js"
+  }
+}
